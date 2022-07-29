@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View Demo</name>
+   <tag></tag>
+   <elementGuidId>85ac6e84-0d90-438b-a1ba-ba899a48d2f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_Banner-module-1']/div/div/div/div/div/div/div[2]/div[2]/a[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-contact-sale-ks-lp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7823c31-dc57-40f1-8e03-db705904e12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-contact-sale-ks-lp</value>
+      <webElementGuid>3d4044bc-1b02-45cc-bb89-e96bf611b3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Demo</value>
+      <webElementGuid>3723e131-b0c6-4ff7-9c0c-5ecc7efdca9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_Banner-module-1&quot;)/div[@class=&quot;katalon-studio-banner-wrapper&quot;]/div[@class=&quot;katalon-studio-banner-inner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;banner_katalon_studio_landing_page&quot;]/div[@class=&quot;brand-heading&quot;]/div[@class=&quot;content-and-btn&quot;]/div[@class=&quot;btn-ks-lp&quot;]/a[@class=&quot;view_demo cm-popup-btn&quot;]/div[@class=&quot;btn-contact-sale-ks-lp&quot;]</value>
+      <webElementGuid>e3e2ef3c-a072-4cf2-80e2-5964d08c7b12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_Banner-module-1']/div/div/div/div/div/div/div[2]/div[2]/a[2]/div</value>
+      <webElementGuid>faa630a9-2676-4164-be01-d7e2a85e3bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Download'])[1]/following::div[1]</value>
+      <webElementGuid>29744a99-1523-4855-ad2b-7919f592f046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go low-code. Boost productivity. Ease scalability.'])[1]/following::div[2]</value>
+      <webElementGuid>92180f8a-be8b-4c78-bc67-088a22a178d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single Tool. Multiple Purposes.'])[1]/preceding::div[3]</value>
+      <webElementGuid>ed0ca8ca-2c83-490e-bb1a-6f916cef108e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy to Use. Robust to Expand.'])[1]/preceding::div[7]</value>
+      <webElementGuid>9f1fd6a6-63e6-4cfb-a339-f56afe5bdd1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Demo']/parent::*</value>
+      <webElementGuid>eae7b8ac-c9bb-4f16-844e-6f3c14c3f6fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>91f5acaf-2b6f-4406-ae32-8e94e96ed808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'View Demo' or . = 'View Demo')]</value>
+      <webElementGuid>d0636016-dc8f-4c88-b7c3-ddaf7f355e5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
